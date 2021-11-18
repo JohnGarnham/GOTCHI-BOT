@@ -1,0 +1,11 @@
+{
+	"token": "PUT YOUR DISCORD TOKEN HERE",
+	"clientID" : "PUT YOUR DISCORD CLIENT ID HERE",
+	"permissions" : "PUT YOUR DISCORD PERMISSIONS INTEGER HERE"
+	"interval" : 10000,
+	"prefix": "a!",
+	"privateKey": "PUT PRIVATE KEY HERE",
+	"rpcEndpoint": "PUT RPC ENDPOINT ADDRESS HERE",
+	"contractAddress": "PUT CONTRACT ADDRESS HERE",
+  "abi": "PUT FUNCTION ABI HERE"
+}
